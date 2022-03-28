@@ -1,2 +1,13 @@
 # 100-days-of-code
-Will document the progress that I do in the next 100 days
+
+Learn C++ and document the progress that I will do in the next 100 days
+
+The format will be like~
+
+Day 1/100
+
+-learned the basic syntax
+
+-printed Hello, World!
+
+-----_**soumyam**_
